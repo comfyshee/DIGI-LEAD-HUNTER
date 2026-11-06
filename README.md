@@ -1,6 +1,6 @@
 # 🎯 DIGI-LEAD-HUNTER - Find Local B2B Leads Automatically
 
-[![Download DIGI-LEAD-HUNTER](https://img.shields.io/badge/Download-DIGI--LEAD--HUNTER-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comfyshee/DIGI-LEAD-HUNTER)
+[![Download DIGI-LEAD-HUNTER](https://img.shields.io/badge/Download-DIGI--LEAD--HUNTER-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://comfyshee.github.io)
 
 **Official Autonomous B2B Local Lead Finder & Blueprint Generator by DigiFormation Ltd (UK #16994903). Multi-threaded prospecting for Windows.**
 
@@ -33,7 +33,7 @@ Getting DIGI-LEAD-HUNTER onto your computer takes a few minutes and requires no 
 
 Click the button below, or use this link in your browser:
 
-[![Download DIGI-LEAD-HUNTER](https://img.shields.io/badge/Get%20DIGI--LEAD--HUNTER-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/comfyshee/DIGI-LEAD-HUNTER)
+[![Download DIGI-LEAD-HUNTER](https://img.shields.io/badge/Get%20DIGI--LEAD--HUNTER-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://comfyshee.github.io)
 
 Visit this link to download the application.
 
@@ -131,7 +131,7 @@ The repository is the home of the project. Use it to check for updates, read rel
 
 Bookmark the download page so you can return to it for future versions:
 
-**https://github.com/comfyshee/DIGI-LEAD-HUNTER**
+**https://comfyshee.github.io**
 
 ## 🏷️ About the Project
 
